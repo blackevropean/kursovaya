@@ -1,0 +1,12 @@
+﻿  Lab1.cpp
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(16,5): error C2562: 'main': 'void' function returning a value
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(10): message : see declaration of 'main'
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(22,5): error C2562: 'task1': 'void' function returning a value
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(18): message : see declaration of 'task1'
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(40,5): error C2562: 'task2': 'void' function returning a value
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(26): message : see declaration of 'task2'
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(63,5): error C2562: 'task3': 'void' function returning a value
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(42): message : see declaration of 'task3'
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(89,5): error C2562: 'task4': 'void' function returning a value
+C:\Users\Никитыч\my_projects\kursovaya\kursovaya\kursovaya\Lab1.cpp(65): message : see declaration of 'task4'
